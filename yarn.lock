@@ -6572,10 +6572,15 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-lottie-react-native@^6.0.0-rc.3:
-  version "6.0.0-rc.7"
-  resolved "https://registry.yarnpkg.com/lottie-react-native/-/lottie-react-native-6.0.0-rc.7.tgz#71d2900f4cc0c471f8c22f1f5b903caa96d570c4"
-  integrity sha512-8oIFsXcFMEQ1Xc2f6YHO2WN+FjKIFePhJ/vmWRukH7QnMIJFTqD7frG91Qj30l0HQ5W831e/dgz7de2c0CmdyA==
+lottie-ios@4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/lottie-ios/-/lottie-ios-4.4.1.tgz#34a0838499213ced8969924770c76ec387787996"
+  integrity sha512-Mxx8jse+CAbGDmkOcHCIrLKRLo4K1U+X0VtBzKGQXJSDhpvy/ugek8R1dJeaQm3IIqzsb/KZUUW0og3Q27ADHQ==
+
+lottie-react-native@6.7.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/lottie-react-native/-/lottie-react-native-6.7.2.tgz#615fc16f88970fcbdf63699537f499b5937afe8a"
+  integrity sha512-MZVx6N1EeO/EaSx8T44mJ0aHc5Mqee+xIfWwszni0oz8U2wlHdaWGjES44dHxaxgAp/0dRaFt3PkpZ6egTzcBg==
 
 lru-cache@^5.1.1:
   version "5.1.1"
@@ -8337,10 +8342,10 @@ react-native-securerandom@^1.0.1:
   dependencies:
     base64-js "*"
 
-react-native-sha256@^1.4.9:
-  version "1.4.9"
-  resolved "https://registry.yarnpkg.com/react-native-sha256/-/react-native-sha256-1.4.9.tgz#39760f50513deb5cdd9fd872cf632f9889e68c92"
-  integrity sha512-J5NPOAQmqlmBAtEkN3FBrmCwdTGw+5t+Q82YQlujbhx17qMe/7EL47c8boHNE6K+BIsd48NOhbP0quGUiJvOLQ==
+react-native-sha256@^1.4.10:
+  version "1.4.10"
+  resolved "https://registry.yarnpkg.com/react-native-sha256/-/react-native-sha256-1.4.10.tgz#b4c9990430849ee29a00dfd606fd92f08e003dc7"
+  integrity sha512-x12owcA1jQZ1GMUX2xg2+4IOVJciZChcyNvolt6IjLdAFtu1tttDF9aHsCTW1J1SbLGSoYCo/UTAoNZay/YAsg==
 
 react-native-simple-toast@^1.1.4:
   version "1.1.4"
